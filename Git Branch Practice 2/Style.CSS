@@ -1,0 +1,29 @@
+.Logo {
+    display: flex;
+    align-items: center;
+    margin-left: 150px;
+}
+
+.Contact {
+    display: flex;
+    flex-direction: row;
+}
+
+.c-buttons {
+    display: flex;
+    text-align: center;
+    gap: 50px;
+    align-items: end;
+}
+
+.Buttons {
+    display: flex;
+    text-align: right;
+}
+
+.Header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 40px;
+}
