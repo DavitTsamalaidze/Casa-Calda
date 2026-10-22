@@ -1,0 +1,135 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    max-width: 2000px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.child-button {
+    color: gray;
+}
+
+.contact {
+    display: flex;
+    padding-left: 100px;
+    gap: 30px;
+}
+
+.contact-child {
+    border: solid 4px;
+    color: white;
+    background-color: #F58634;
+    border-radius: 40px;
+    font-size: 20px;
+}
+
+.lang {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 40px;
+    gap: 10px;
+}
+
+.geo {
+    color: white;
+    border: solid 4px;
+    border-radius: 40px;
+    background-color: Blue;
+    font-size: 20px;
+}
+
+.eng {
+    color: black;
+    font-size: 20px;
+}
+
+.main-title {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.main-desc {
+    display: flex;
+    justify-content: center;
+}
+
+.desc {
+    color: gray;
+}
+
+.main-img {
+    display: flex;
+    padding-left: 270px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 200px;
+}
+
+.logo2 {
+    width: 250px;
+    height: 80px;
+}
+
+.footer-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.footer-desc {
+    display: flex;
+    justify-content: flex-start;
+    color: gray;
+    width: 250px;
+    height: 150px;
+}
+
+.row1 {
+    display: flex;
+    color: gray;
+    gap: 150px;
+}
+
+.row2 {
+    display: flex;
+    gap: 175px;
+}
+
+.row3 {
+    display: flex;
+    gap: 125px;
+}
+
+.row4 {
+    display: flex;
+    gap: 150px;
+}
+
+.row5 {
+    display: flex;
+    gap: 80px;
+}
+
+.row6 {
+    display: flex;
+    gap: 150px;
+}
+
+h5 {
+    display: flex;
+    padding-left: 335px;
+}
